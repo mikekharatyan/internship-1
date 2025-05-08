@@ -1,0 +1,21 @@
+# Install dependencies
+
+npm install
+
+# Run the development server
+
+npm run dev
+
+---
+
+OR
+
+---
+
+# Build the project
+
+npm run build
+
+# Preview the build
+
+npm run preview
